@@ -2,3 +2,5 @@ streamlit
 pyodbc
 pandas
 openpyxl
+unixodbc
+unixodbc-dev
