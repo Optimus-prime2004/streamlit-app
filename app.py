@@ -4,7 +4,7 @@ import pandas as pd
 
 # Database Connection Function
 def connect_db():
-    server = 'DESKTOP-2OEF9G3\SQLEXPRESS'  # Change if needed
+    server = r'DESKTOP-2OEF9G3\SQLEXPRESS'  # Change if needed
     database = 'StreamlitDB'
 
     try:
